@@ -19,4 +19,6 @@ group :jekyll_plugins do
     gem 'bootstrap', '~> 4.4.1'
     gem 'kramdown'
     gem 'rouge'
+	gem "jekyll-manager", "~> 0.1.1"
+	gem 'kramdown-parser-gfm', '~> 1.0', '>= 1.0.1'
 end
